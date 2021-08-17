@@ -1,6 +1,6 @@
 # Capsule Network with PyTorch
 
-Readable implementation of a Capsule Network as described in "Dynamic Routing Between Capsules" [Hinton et. al.]
+Readable implementation of a Capsule Network as described in ["Dynamic Routing Between Capsules"](https://arxiv.org/pdf/1710.09829.pdf) [Hinton et. al.]
 
 In this notebook, I'll be building a simple Capsule Network that aims to classify MNIST images. 
 This is an implementation in PyTorch and this notebook assumes that you are already familiar with [convolutional and fully-connected layers](https://cezannec.github.io/Convolutional_Neural_Networks/). 
