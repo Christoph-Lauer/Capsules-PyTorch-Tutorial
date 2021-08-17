@@ -1,4 +1,4 @@
-# Capsule Network
+# Capsule Network with PyTorch
 
 Readable implementation of a Capsule Network as described in "Dynamic Routing Between Capsules" [Hinton et. al.]
 
